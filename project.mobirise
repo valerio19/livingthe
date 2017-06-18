@@ -1,0 +1,1592 @@
+{
+  "settings": {
+    "name": "NewSite-02-14_1112",
+    "currentPage": "livingyourdream.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Montserrat",
+        "textFont": "Roboto",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 45,
+    "versionPublish": "3.11.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-92983651-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Make Money Online",
+        "meta_descr": "In this section i'll point out exactly how you can start making money online by next week! This will be the only informatyion you'll need to start making money as soon as you start!",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-7",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-191x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "coderwall",
+              "family": "socicon",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "color": "#fac51c",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://earn-now.online\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">It Works</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://earn-now.online\">BACK TO IQ OPTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://bit.do/insafamous\">BACK TO IQ OPTIONS</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header1-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Start Making money online today! Seriously",
+          "text": "Of course we have learnt a thing or two about making money online but what our mentors did was fail to show us exactly how to make money online. I'm Ron Smith and I’m gonna show you exactly how to start earning real cash within the next week. Follow my steps and you'll be making at least $1,000 a week guaranteed, but if you don't do as I say blame yourself and not me when you fail. Use the tab 900% insta to become instagram famous, Scroll down for more.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.amazon.com/gp/product/1119070481/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1119070481&amp;linkCode=as2&amp;tag=valerio19-20&amp;linkId=5575af140d312e8de7730725609b1eff\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NEW RULES MARKETING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://bit.do/insafamous\" data-toolbar=\"-mbrBtnMove\">900% INSTAGRAM BOOST</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "24px",
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header2-4",
+          "_params": {
+            "imageSize": "51",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-13-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "YOU MUST BE SAYING WHO THE HELL IS RON SMITH?",
+          "text": "You guy's may be wondering who is Ron Smith? Well... I'm a normal person like you and the hundreds that have ended up on this site, I’m just a simple guy that loves to live my dream! But I believe the only difference is I never quite I never stopped no matter how hard it became. I created earn.online to help you trek a more simple and easier path one that will not lead you to STOP! Or FAIL! But one that will lead you to win massively, below and on the next page are the key factors that will allow you to earn hundreds of dollars despite the fact that you may have failed at this before, despite the fact that you might have tried it all but to no avail, well that changes today! ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"livingyourdream.html\" data-toolbar=\"-mbrBtnMove\">LIVING YOUR DREAM</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"promoteanybiz.html\" data-toolbar=\"-mbrBtnMove\">PROMOTE ANY BIZ</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header2-13",
+          "_params": {
+            "imageSize": "50",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=WdZWt2CTs_w",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "START MAKING MONEY ONLINE BY DOING THESE 3 THINGS!",
+          "text": "1= Find a product or service that is in demand.<br>2= Use a automated system that will promote your offer for you.<br>3= Learn how to live your dream and attract success.<br><br>These three things are the most essential part of making money online, below I will provide the product that you'll be promoting one that is in demand I will provide the system that will allow you to sleep while sales poor into your PayPal account and last but not least I will show you exactly how to live your dream and attract success.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://bit.do/insafamous\" data-toolbar=\"-mbrBtnMove\">INSTA FAMOUS</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://onlinesalespro.com/IRF-s-1/?sub=robertron\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP OSP</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "header2-14",
+          "_params": {
+            "imageSize": "48",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1299.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/l1s1E9RHIdQ",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "ONLINE SALES PRO our in demand service!",
+          "text": "The service that I’m promoting and the service that I chose for you to promote is a simple affiliate program that allows me to earn endless cash on a month to month basis, how do I earn cash from online sales pro? I simply promote it, to people from all over the world that wants to make a couple a extra thousand bucks per month, your here so you already know that this type of (make money online) service is in high demand all around the world, who would really work for someone when they can sit and relax at home or in Dubai, Hawaii with their family while their online system work for them? Luckily I'm not and will never again work for other people building their dream! Now let’s do some math. Click the link show me the money!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#features6-15\" data-toolbar=\"-mbrBtnMove\">SHOW ME THE MONEY</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://onlinesalespro.com/IRF-s-1/?sub=robertron\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP FOR OSP</a>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            "H4": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_anchor": "features6-15",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fac51c"
+            }
+          },
+          "title1": "Earning Level",
+          "subtitle1": "Affiliates are paid $20-$150 in commssions per sale",
+          "caption1": "It is impossible to measure the amount of cash you can make promoting online sales pro, this is why i promote it and why i recommend this affiliate program. The program is packed with many different features that's gonna help you even more having success online.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#header2-16\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fac51c"
+            }
+          },
+          "title2": "Money, Money",
+          "subtitle2": "Each sale of a standard memeberships earns you $20 bucks",
+          "caption2": "You'll continue to earn that $20 dollars each month for as long as that person stay's within online sales pro, it's a monthly membership program so each month they pay you'll continue to earn, all earnings will be sent directly to your paypal account no questions asked.&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#header2-16\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fac51c"
+            }
+          },
+          "title3": "Members",
+          "subtitle3": "This is how the numbers break down per person refered",
+          "caption3": "1 Member = $20 bucks<br>10 Member = $200 bucks<br>20 Member = $400 bucks<br>30 Members = $600 bucks<br>40 Members = $800 bucks<br>50 Members = $1000 bucks<br>60 Members = $1200 bucks",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#header2-16\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fac51c"
+            }
+          },
+          "title4": "Unlimited Sales",
+          "subtitle4": "The numbers go's on and on and on, attract unlimited sales",
+          "caption4": "online sales pro is not just making money today but making money for month's.<br>1,500 Members = $30,000<br>10,000 Members = $200,000<br>20,000 Members = $400,000<br>100k Members = $2,000,000",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#header2-16\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header2-16",
+          "_params": {
+            "imageSize": "47",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=SMBYbXQ_nMo",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "GET STARTED BY SIGNING UP FOR OSP.",
+          "text": "In order for us to make money we have to invest a little, signing up for OSP your membership will cost $37 bucks and this is every month, the system that you'll use to promote OSP will cost some cash as well, how much? That will only be determined by you, on the next page (Promote Any Business) I’ll walk you through exactly what you need to do to get your offer on the internet in front millions of people that are ready to buy! For now feel free to sign up for OSP don't worry this section is the hardest part the rest I’ll walk you through, your offer will be up within a day! Leaving you with 29-30 day's worth of membership, you can always ask for a refund as well if somehow you become uncomfortable. Hide your affiliate id this will be needed when using the systems on the next page to drive traffic use the tab below. Make sure you purchase your URL or domain using go-daddy. Example: (earn.com) (makemoney.online) (earnmore.net).",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.youtube.com/watch?v=9r2NvOwx-X4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HIDE AFFILIATE ID</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://onlinesalespro.com/IRF-s-1/?sub=robertron\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP OSP</a>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-f",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": true,
+            "odnoklassniki": true
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".card-footer > div": {
+              "color": "#ffffff"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p>“I have been online for a few years, have had moderate results, really struggled with different programs, but within a short amount of time i have been able to generate close to $5,000 dollars, which is insane. I have never had results like this.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mbr-160x106.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Sam T.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“I was able to generate over $8,000 in commissions in just 9 days after implementing the step by step training and the best part is, I was able to do all of this while i was chillin out in my pool villa here in Phuket Thailand using only my laptop and the internet.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Fraser M.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“I am 65 years old and a Grandmother of three. Since joining 10 days ago, I have generated around $2,800 in commissions by following the game plan.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Rhee.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials4-e",
+          "_params": {
+            "count": "3",
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1502.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        }
+      ]
+    },
+    "promoteanybiz.html": {
+      "settings": {
+        "title": "Promote Any Biz",
+        "meta_descr": "This option show's you exactly how to promote any biz no matter what it is weight loss, dog training, household supplies etc."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-8",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-191x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "coderwall",
+              "family": "socicon",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "newWindow": false,
+              "color": "#fac51c"
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">earn-now.online</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">MAKE MONEY ONLINE!</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promoteanybiz.html\">PROMOTE ANY BUSINESS!</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"livingyourdream.html\">LIVING YOUR DREAM!</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://bit.do/insafamous\">Insta Famous</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header1-l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1424.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "How to drive real people to your offer!",
+          "text": "Ok, first I want to list the three best ways that I’m driving traffic (real people) to osp, one of these methods brought you here of-course the first one is.... (1) Reddit (2) Google Adwords (3) Bing Ads (4) Instagram. You may not have heard of or know what I’m talking about here but below I’ll lay it out for you the easiest way possible. These four ways are yet the best way to get people to literally beg you to sell them what you have. These secret's nobody talks about. Use the insta famous button at the top to access my secret page on becoming insta famous!",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.youtube.com/user/BingAds\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BING TUBE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.youtube.com/user/learnwithgoogle\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ADWORDS TUBE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.youtube.com/watch?v=OYofk_hkiQM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REDDIT TUBE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".mbr-section-text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "header2-z",
+          "_params": {
+            "imageSize": "53",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=g7xO8PbJxZE",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "WHAT IS REDDIT AND HOW TO SET UP YOUR FIRST CAMPAIGN.",
+          "text": "Reddit is a social media platform that facilitates users from all over the world it is reported that Reddit serves over 1.2 billion users per month, how do their systems stay online? I don’t know! But Reddit has been my number one place to get targeted users like yourself to click on my ad and immediately land on this site where i walk them through the process of how to make money online, greatest thing is the cash to start is just $5 dollars, I’ll have a video on the left side showing you exactly how to set up your account and start making some cash.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.reddit.com/advertising/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REDDIT.COM</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://onlinesalespro.com/IRF-s-1/?sub=robertron\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP OSP</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header2-k",
+          "_params": {
+            "imageSize": "53",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=TVQ1XBHxMtk",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "WHAT IS AND HOW GOOGLE ADWORDS WORK",
+          "text": "Google adwords is essentially the best way to get people to purchase your offer, why? Because people trust google, let me ask you this whenever you want to research or buy something online where is the first place you go? Google.com or Bing.com everybody runs to google and Bing each time they want to buy or research something. Watch the video on the right side of your screen then the one below to see exactly what Google adwords is and how to set up your adwords account, it is quite expensive so beware.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://www.webopedia.com/TERM/A/adwords.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ADWORD.COM</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://bit.do/insafamous\" data-toolbar=\"-mbrBtnMove\">INSTA FAMOUS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".mbr-section-text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "header2-m",
+          "_params": {
+            "imageSize": "53",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=OiyJkPffIG0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "HOW TO SET UP MY ADWORDS CAMPAIGN",
+          "text": "This video will show you exactly how to access and set up your adwords account so you can start promoting your offer to millions of people worldwide that are interested in your product in demand (OSP) Keyword: (Make Money) (Make More Money) (Jobs For Single Mom's) etc it is endless what keywords you can use to draw the exact people you need to your offer. Please see below Bing ads marketing platform. Hey, whoever you are between us though reddit ads and bing ads is way cheaper also easier to deal with 99% of my customers that have landed on this site gives a thumbs up for reddit ads and bing ads.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"livingyourdream.html\" data-toolbar=\"-mbrBtnMove\">LIVING YOUR DREAM</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://onlinesalespro.com/IRF-s-1/?sub=robertron\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP OSP</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".mbr-section-text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "header2-n",
+          "_params": {
+            "imageSize": "53",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=UVnMxR3HNu0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "HOW TO SETUP A BING ADS CAMPAIGN EASY",
+          "text": "Before reddit, bing ads was the easiest and most cost effective way I used to drive traffic (people) to my site the set up is simple and I am happy with all the results i got, now by doing your research you'll know by the end which one you'll be working with I truly though recommend bing ads if (somehow) you find reddit ads not appealing for the first part of your success online. I'll stress this it is easier and cheaper and better to work with even though google guarantees sales the same can be said about bing.com.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://en.wikipedia.org/wiki/Bing_Ads\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BINGADS.COM</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://bit.do/insafamous\" data-toolbar=\"-mbrBtnMove\">INSTA FAMOUS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box5-o",
+          "_params": {
+            "imageSize": "53",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-2000x1333.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x934.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "WANNA USE MY SITE or get a new one?",
+          "text": "Hey, I’m offering you guy's the opportunity to use my website for a small cost. How would this work? I'm a genius at coding and anchor text as well my expertise expands over a very wide horizon, what I could do is add your affiliate link to my website so you could use this website to attract sales for yourself if not you can just continue to promote it using the automated websites OSP will provide with your link already embedded. Difference... Though is the key to success as well so you choose, I’m also available to create website for companies etc use the button below to contact me personally for this and any questions you may have.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"promoteanybiz.html#contacts3-2\" data-toolbar=\"-mbrBtnMove\">EMAIL ME</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://onlinesalespro.com/IRF-s-1/?sub=robertron\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP OSP</a>"
+        }
+      ]
+    },
+    "livingyourdream.html": {
+      "settings": {
+        "title": "Living Your Dream",
+        "meta_descr": "Here you will learn the true factors on how to live your dream, no matter where your from or who you are we'll show you exactly what you should do to start living your dream today!"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-b",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-191x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "coderwall",
+              "family": "socicon",
+              "link": "http://earn-now.online",
+              "size": 0,
+              "active": true,
+              "newWindow": false,
+              "color": "#fac51c"
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://earn-now.online\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">It Works</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://earn-now.online\">BACK TO IQ OPTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://bit.do/insafamous\">BACK TO IQ OPTIONS</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_anchor": "header1-p",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Living your dream to the fullest! Be a star!",
+          "text": "Infuse your life with action. Don't wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love and whatever your beliefs honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... right down here on Earth. That’s my thought to you! Click the rich dad poor dad button after scrolling down to access a book that will teach you how to live your life while gaining endless success!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.amazon.com/gp/product/193787950X/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=193787950X&amp;linkCode=as2&amp;tag=valerio19-20&amp;linkId=90054f6a6a186c4bf89093bf0ed18c3b\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">THINK &amp; GROW RICH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.amazon.com/gp/product/1612680054/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1612680054&amp;linkCode=as2&amp;tag=valerio19-20&amp;linkId=58971bf5d4824948e6230dde09bf58cf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">RICH DAD POOR DAD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "DIV": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "image1-y",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=-iPLKdjtC6U",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "Watch the entire video then scroll down living your dream begins today!"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1324.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "How to live your dream!",
+          "caption": "<p>Living your dream life is something that many people strive to do but often time do not succeed. However, if you are committed to achieving your dream life you are likely to succeed. If you move towards your dreams, be true to yourself, and move away from the past you can start to live your dream life.</p><p>(RISE) (STAND) (PUSH) (FOWARD)</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1410.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Pinpointing your desire's!",
+          "caption": "<p><b>Pinpoint your desires</b>. Pay attention to the things that you enjoy doing the most, and ask yourself what it is about those things that you enjoy. You should also pay attention to when you feel jealous of another person, this can be a clear indication that you desire something that they have or experienced, this doesn’t mean that you wish they didn’t have it, it means that you want something similar.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Use your desire:</b>&nbsp;Use your desires to help you push foward.</span><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Setting goal's for yourself!",
+          "caption": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Set goals for yourself.</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> Goals are going to be how you get from where you are now to where you want to be. The clearer your goals are, the more successful you will be at attaining them. Use the SMART acronym to set good goals</span><br></p><p>{<b>Specific</b>} &nbsp;{<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Measurable</b>} {</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Attainable</b>} {</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Realistic</b>} {</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Time bound</b>}</span></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1336.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Planning your dream life!",
+          "caption": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Plan your dream life</b>. When doing this, dream big plan every single detail of your life. Start with imagining the situations in life that you currently find unappealing, and imagine something that’s better. Continue doing this until you cannot imagine anything better than the life you have created in your imagination. This will clarify your desires and help you set goals to reach the life that you truly want.</span><br></p><p>Imagine your ideal family. Do you have kids? Are you married? Where does your family live?</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Detail every corner of your dream house, choose the colors, floors, decorations, etc.</span></p><p>Ask yourself what you would do if you could have any job in the world. Consider what title and benefits you would want.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Even billionaire bill gates failed!&nbsp;",
+          "caption": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Be at peace with failing occasionally.</b> Many cultures see failure as a negative thing. Although it is not fun to experience failure, being afraid of failing should never prevent you from living your dream life. There is a good possibility that you won’t fail and if you do fail, learn from your failure.</span><br></p><p>Living in fear of failure could prevent you from taking on a new task's or opportunity and that could cause you, your future.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts3-17",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "file:///C:/Users/ROBERT/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-265x198_2.jpg",
+              "class": "card-img-top",
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "coderwall",
+              "family": "socicon",
+              "link": "http://earn-now.online",
+              "size": 0,
+              "color": "#fac51c",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "text1": "Creating a better life for yourself means you gotta get up off your butt cheeks and start working towards it.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+44-20-8068-0760",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "Kemp House,152 City Road, London EC1V 2NX",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "coderwall",
+              "family": "socicon",
+              "active": true,
+              "size": 0,
+              "color": "#fac51c"
+            }
+          },
+          "text4": "",
+          "title1": "Other Links",
+          "text5": "<li><a href=\"http://bit.do/landing-page-1\" target=\"_blank\" class=\"text-warning\">Iq Official Website</a><a href=\"http://bit.do/insafamous\" target=\"_blank\"></a><a class=\"text-white\" href=\"promoteanybiz.html\"></a></li><li><a href=\"livingyourdream.html\" class=\"text-warning\">Living Your Dream</a></li><li><a href=\"http://bit.do/iqoption-tutorials\" target=\"_blank\" class=\"text-warning\">Iq Video Tutorials</a></li><li><a href=\"https://twitter.com/IQOption\" target=\"_blank\" class=\"text-warning\">Twitter</a></li><li><a href=\"https://www.facebook.com/iqoptioncom/\" target=\"_blank\" class=\"text-warning\">Facebook</a></li><li><a href=\"https://www.youtube.com/channel/UCDrjmRB5Sjlcn_DYoEOCa7w\" target=\"_blank\" class=\"text-warning\">Youtube</a> / <a href=\"https://instagram.com/iqoption_official\" target=\"_blank\" class=\"text-warning\">Instagram</a></li>",
+          "text6": "<strong>Contacts</strong><br>Phone #: +44-20-8068-0760<br>Fax #: +351-308-807-766<br>Email: Support@iqoption.com<br><br><strong>Address</strong><br>Kemp House,152 City Road, London EC1V 2NX<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "earnwithron@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form! I'll contact you back as soon as possible!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Have A Question?"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-18",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p>Copyright (c) 2017 Earn.com. <a href=\"https://iqoption.com/en/terms-and-conditions/chat-code-of-conduct\" target=\"_blank\" class=\"text-white\"><b>C.O.C</b></a><a href=\"https://iqoption.com/en/terms-and-conditions/chat-code-of-conduct\" target=\"_blank\" class=\"text-white\"></a>&nbsp;-&nbsp;<a href=\"https://iqoption.com/en/terms-and-conditions/payment-policy\" target=\"_blank\" class=\"text-white\"><b>Payment policy</b></a><b><a href=\"index.html\" class=\"text-white\"></a> - <a href=\"https://iqoption.com/en/terms-and-conditions/privacy-policy\" class=\"text-white\" target=\"_blank\">Privacy Policy</a> - <a href=\"https://iqoption.com/en/terms-and-conditions/terms-conditions\" class=\"text-white\" target=\"_blank\">Terms Of Service</a>&nbsp;- <a href=\"https://iqoption.com/en/terms-and-conditions/return-and-refund-policy\" target=\"_blank\" class=\"text-white\">Withdrawal &amp; refund policy</a> - </b><a href=\"https://iqoption.com/en/terms-and-conditions/aml-kyc-policy\" target=\"_blank\" class=\"text-white\">AML &amp; KYC policy</a></p>"
+        }
+      ]
+    }
+  }
+}
